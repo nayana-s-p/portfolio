@@ -24,7 +24,7 @@ Deploy the contents of `dist/` to a static web host. This project has no backend
 
 ## GitHub Pages
 
-Push to `main` to build and deploy the site through the GitHub Actions workflow in `.github/workflows/deploy.yml`. The project site is served from `https://nayanaspjava25.github.io/portfolio/`.
+Push to `main` to build and deploy the site through the GitHub Actions workflow in `.github/workflows/deploy.yml`. The project site is served from `https://nayana-s-p.github.io/portfolio/`.
 
 ## Update the portfolio
 
