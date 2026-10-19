@@ -1,10 +1,9 @@
 # Assets
 
-## Temporary profile image
+## Profile image
 
-- Repository path: `public/assets/portrait.jpg`.
-- This image is retained as a temporary profile placeholder at the owner's request. Replace it with the intended portrait in a later revision.
-- The hero includes a Three.js shader treatment over the image and falls back to the image when WebGL is unavailable.
+- Repository path: `public/assets/nayana-standing.png`.
+- The hero displays the standing portrait and keeps the image visible when WebGL is unavailable.
 
 ## Resume
 
@@ -18,5 +17,5 @@ Archivo and IBM Plex Mono are served locally. Their license files are included b
 ## Artwork
 
 - Project card illustrations are CSS artwork in `src/App.tsx` and `src/styles.css`.
-- Three.js scenes live in `src/three/scenes.ts`: the profile portrait shader, layered system, morphing particle sculpture, and interactive landscape.
-- The 3D scenes use a dark plum base with blush and lilac accents. Three.js and GSAP are bundled as npm dependencies; no runtime CDN is required.
+- Three.js scenes live in `src/three/scenes.ts`: ambient liquid forms, the layered system, a morphing particle sculpture, and an interactive landscape.
+- Three.js and GSAP are bundled as npm dependencies; no runtime CDN is required.
