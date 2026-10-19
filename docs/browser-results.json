@@ -1,0 +1,23 @@
+{
+  "checkedAt": "2026-10-02T15:24:12.815Z",
+  "browser": "153.0.8010.12",
+  "baseURL": "http://localhost:5173",
+  "results": [
+    "Portrait shader uses a live Three.js WebGL renderer and loads its texture",
+    "No horizontal overflow at 320, 390, 768, 1024, and 1440 pixels",
+    "Scrolling moves the system camera, assembles the layers, and advances the story",
+    "Engineering stages can also be selected with accessible buttons",
+    "The Three.js point cloud morphs into four distinct geometry targets as process beats change",
+    "Pointer hover locally scatters and brightens the particle sculpture",
+    "Pause freezes WebGL rendering and Resume restarts it",
+    "Offscreen WebGL scenes stop rendering",
+    "World exploration supports mouse drag, keyboard orbit, Escape, and focus restoration",
+    "Existing work navigation and all project dialogs retain keyboard behavior",
+    "Email copying remains functional",
+    "Mobile navigation and all immersive scenes fit the viewport",
+    "Reduced motion renders static artwork, supports stage controls and accordions, and shortens pinned stories",
+    "WebGL-unavailable devices retain the portrait, story, fallback artwork, and readable content",
+    "No JavaScript errors, shader errors, or failed resource requests"
+  ],
+  "errors": []
+}
