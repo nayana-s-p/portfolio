@@ -1,6 +1,6 @@
 # Nayana S Parthan — portfolio
 
-A responsive portfolio for a full stack and AI/ML developer, with monochrome backgrounds, blue accents, and translucent glass surfaces inspired by [soliciabrown.com](https://soliciabrown.com/). The profile, work history, projects, skills, education, languages, and contact information are based on the supplied CV. Soft liquid forms drift and morph throughout the page. The engineering story uses the same liquid material, while the process section retains its interactive particle forms.
+A responsive portfolio for a full stack and AI/ML developer, with monochrome backgrounds, blue accents, and translucent glass surfaces. The profile, work history, projects, skills, education, languages, and contact information are based on the supplied CV. Soft liquid forms drift and morph throughout the page. The engineering story uses the same liquid material, while the process section retains its interactive particle forms.
 
 ## Run locally
 
